@@ -22,7 +22,7 @@ Wednesday: Akua
 Thursday:  Yaa
 Friday: Afua
 Saturday: Ama
-  NB:It details information bout the Akan cultureand some of their raditions.
+  NB:It details information bout the Akan culture and some of their raditions.
 
 ## Setup/Installation Requirements;
 - copy the url on arrow down
