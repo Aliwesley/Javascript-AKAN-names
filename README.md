@@ -14,7 +14,7 @@ Wednesday: Kwaku
 Thursday:  Yaw
 Friday: Kofi
 Saturday: Kwame
-2.For Female Children:
+2.For Female Children;
 Sunday: Akosua
 Monday: Adwoa
 Tuesday: Abenaa
