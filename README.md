@@ -28,7 +28,7 @@ Saturday: Ama
 - copy the url on arrow down
 - Clone on your computer
 - Go live or start your server
-## Known Bugs
+## Known Bugs;
 No known bugs
 ## Technologies Used
 - Html
