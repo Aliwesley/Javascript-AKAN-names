@@ -30,7 +30,7 @@ Saturday: Ama
 - Go live or start your server
 ## Known Bugs;
 No known bugs
-## Technologies Used
+## Technologies Used;
 - Html
 - Css
 - JavaScript
