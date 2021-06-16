@@ -34,7 +34,7 @@ No known bugs
 - Html
 - Css
 - JavaScript
-## Support and contact details
+## Support and contact details;
 wesley.ali@student.moringaschool.com on Slack
 ### License
 Read our [lincences](./Lincense)
