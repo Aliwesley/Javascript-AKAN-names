@@ -24,7 +24,7 @@ Friday: Afua
 Saturday: Ama
   NB:It details information bout the Akan cultureand some of their raditions.
 
-## Setup/Installation Requirements
+## Setup/Installation Requirements;
 - copy the url on arrow down
 - Clone on your computer
 - Go live or start your server
