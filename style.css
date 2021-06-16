@@ -1,12 +1,12 @@
 body{
-    background: url(eee.jpg) no-repeat center center fixed;
+    background: url(images/akan\ 2.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 .img{
-    width: 600px;
+    width: 900px;
     height: 300px;
     object-fit: cover;
 }
@@ -48,6 +48,7 @@ h1{
     color: white;
     text-align: center;
     font-weight: bolder;
+}
 
 
 
