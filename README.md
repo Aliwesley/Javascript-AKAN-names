@@ -35,7 +35,7 @@ No known bugs
 - Css
 - JavaScript
 ## Support and contact details
-grant.okello@student.moringaschool.com on Slack
+wesley.ali@student.moringaschool.com on Slack
 ### License
 Read our [lincences](./Lincense)
 Copyright (c) 2021 **Wesley Carson**
